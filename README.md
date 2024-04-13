@@ -1,6 +1,6 @@
 ## Olá! Eu sou Pablo Konrath👋
 
-- 📖 Cursando - Analise e Desenvolvimento de Sistema
+- 📖 Cursando - Analise e Desenvolvimento de Sistemas
 - 💡 Objetivo - Trabalhar com desenvolvimento Web
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablokonrath&show_icons=true&theme=dark)
