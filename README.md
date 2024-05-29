@@ -1,7 +1,8 @@
 ## Olá! Eu sou Pablo Konrath👋
 
 - 📖 Cursando - Analise e Desenvolvimento de Sistemas
-- 💡 Objetivo - Trabalhar com desenvolvimento Web
+- 💡 Objetivo - Especialista em Front End
+- Hobby - Video Games, Musicas, Skate
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablokonrath&show_icons=true&theme=dark)
 
@@ -36,3 +37,38 @@
   </a>
   
 </div>
+
+# Meus Projetos de Frontend Mentor
+
+Bem-vindo ao meu portfólio de projetos do Frontend Mentor! Aqui, você encontrará uma coleção dos meus projetos organizados por nível de dificuldade. Cada projeto contém um link para o repositório e uma breve descrição.
+
+**Nível Atual:** ![Iniciante](https://img.shields.io/badge/n%C3%ADvel-Iniciante-green)
+
+## Objetivo
+
+Atualmente, estou no nível iniciante e meu objetivo é ganhar prática e constância para me preparar melhor para o mercado de trabalho. Estou me dedicando a completar projetos de diferentes níveis de dificuldade, aprimorando minhas habilidades e aprendendo novas tecnologias.
+
+## Níveis de Dificuldade
+
+- [Iniciante](#iniciante), Meta 26 Projetos
+- [Júnior](#junior), Meta 37 Projetos
+- [Intermediário](#intermediario), Meta 27 projetos
+- [Avançado](#avancado), Meta 13 Projetos
+- [Guru](#guru), Meta 6 Projetos
+- Todos Projetos conforme a plataforma.
+
+## Iniciante
+
+1. [Nome do Projeto 1](https://link-para-o-repositorio)
+   - Descrição breve do projeto.
+   - Tecnologias utilizadas: HTML, CSS.
+
+---
+
+## Junior
+## Intermediário
+## Avançado
+## Guru
+
+Obrigado por visitar meu portfólio de projetos do Frontend Mentor!
+
