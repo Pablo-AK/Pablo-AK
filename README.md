@@ -2,7 +2,7 @@
 
 - 📖 Cursando - Analise e Desenvolvimento de Sistemas
 - 💡 Objetivo - Especialista em Front End
-- Hobby - Video Games, Musicas, Skate
+- Passa tempo - Video Games, Musicas, Skate
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablokonrath&show_icons=true&theme=dark)
 
