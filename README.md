@@ -59,16 +59,18 @@ Atualmente, estou no nível iniciante e meu objetivo é ganhar prática e const�
 
 ## Iniciante
 
-1. [Nome do Projeto 1](https://link-para-o-repositorio)
-   - Descrição breve do projeto.
-   - Tecnologias utilizadas: HTML, CSS.
+1. [workit-landing-page](https://github.com/pablokonrath/workit.github.io) - Finalizado em 01/06/2024
+   - Este projeto é uma página de apresentação para um serviço de análise de dados, chamado "workit".
+   - Tecnologias utilizadas: HTML, CSS c/SASS
 
 ---
 
 ## Junior
+
 ## Intermediário
+
 ## Avançado
+
 ## Guru
 
 Obrigado por visitar meu portfólio de projetos do Frontend Mentor!
-
